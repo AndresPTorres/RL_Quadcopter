@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>Quadcopter_Project</title>
 <body>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
